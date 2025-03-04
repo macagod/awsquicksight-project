@@ -44,6 +44,7 @@ This project explores Netflix's content catalog using **Amazon QuickSight** for 
 ## 📸 Project Screenshots  
 ### 🏆 Final QuickSight Dashboard  
 
+![image](https://github.com/user-attachments/assets/a5901577-e809-4e53-bbc4-a5af2f742dcc)
 
 ---
 
