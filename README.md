@@ -17,27 +17,42 @@ This project explores Netflix's content catalog using **Amazon QuickSight** for 
 ### 1️⃣ Data Import & Management  
 - Uploaded **Netflix Titles dataset** to **Amazon S3**  
 - Connected dataset to **QuickSight for visualization**  
-- Created a **manifest.json** file for structured data access  
+- Created a **manifest.json** file for structured data access
+  ![image](https://github.com/user-attachments/assets/89d5a288-c7eb-4727-b176-91804fe63b3f)
+
 
 ### 2️⃣ Interactive Dashboards & Insights  
 ✅ **Movies vs TV Shows Analysis**  
 - Compared **proportion of movies vs TV shows per year** using stacked bar charts  
-- Identified **trends in content production** over time  
+- Identified **trends in content production** over time
+  ![image](https://github.com/user-attachments/assets/683a5b68-2203-4ebf-b1c8-95fa91ff6e01)
+
 
 ✅ **Netflix's Biggest Content Drop**  
-- Found the **single day with the most content added** to Netflix  
+- Found the **single day with the most content added** to Netflix
+  ![image](https://github.com/user-attachments/assets/e8bf1b35-2b5e-4fcb-8da6-ce30320b09e8)
+  
 
 ✅ **Genre Breakdown & Analysis**  
 - Filtered and analyzed **Action & Adventure, TV Comedies, and Thrillers**  
-- Compared **genre popularity trends since 2015**  
+- Compared **genre popularity trends since 2015**
+  ![image](https://github.com/user-attachments/assets/75841114-92e7-4b75-bd28-c140588355d2)
+  
 
 ✅ **Missing Data Handling**  
 - Identified missing **country data** in the dataset  
-- **Updated dataset in S3** and refreshed QuickSight visuals  
+- **Updated dataset in S3** and refreshed QuickSight visuals
+  ![image](https://github.com/user-attachments/assets/5279eda4-9c54-4005-b540-e19bf0a1850d)
+  
 
 ✅ **Data Refresh & Performance Optimization**  
 - Updated dataset in **Amazon S3**  
-- Manually refreshed **QuickSight** dashboards to sync the latest data  
+- Manually refreshed **QuickSight** dashboards to sync the latest data
+  ![image](https://github.com/user-attachments/assets/2194ea47-e982-4079-9cd1-b4949c6e4346)
+  ![image](https://github.com/user-attachments/assets/8c6a7bb4-41ea-4c21-b1ef-c922703f9388)
+
+
+    
 
 ---
 
